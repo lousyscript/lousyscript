@@ -3,6 +3,7 @@
 Software Engineering for Cloud Computing master's student, breaking and fixing things on AWS.
 
 **Focus:** cloud security → DevSecOps
+
 **Stack:** AWS · Docker · Linux · Python · Git
 
 ### Projects
