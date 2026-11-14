@@ -26,5 +26,5 @@ Master's student in **Software Engineering for Cloud Computing**, with a backgro
 - Move into cloud security / DevSecOps
 
 ## 📫 Contact
-- LinkedIn: [your-link-here](https://www.linkedin.com/in/nabil-henachi-095324222/)
+- LinkedIn: [click-me](https://www.linkedin.com/in/nabil-henachi-095324222/)
 - Email: thr33da-ru@proton.me
