@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1500&color=FACC15&center=true&vCenter=true&width=600&height=70&lines=No+system+is+safe." alt="No system is safe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1500&color=FACC15&center=true&vCenter=true&width=600&height=70&lines=No+system+is+safe" alt="No system is safe">
 </p>
 <h3>lousyscript</h3>
 
