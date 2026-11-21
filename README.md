@@ -10,6 +10,7 @@ Software Engineering for Cloud Computing master's student, breaking and fixing t
 **Stack:** AWS · Docker · Linux · Python · Git
 
 ### Projects
+- AD-lab penetration testing
 - mini-CSPM: Python + boto3 misconfiguration scanner *(in progress)*
 
 ### Next
