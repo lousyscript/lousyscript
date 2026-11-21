@@ -1,7 +1,5 @@
-# No system is safe</h1>
-
+<h1 align="center">No system is safe.</h1>
 <h3>lousyscript</h3>
-
 Software Engineering for Cloud Computing master's student, breaking and fixing things on AWS.
 
 **Focus:** cloud security → DevSecOps
