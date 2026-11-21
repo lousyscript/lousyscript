@@ -1,3 +1,5 @@
+<h1 align="center">No system is safe.</h1>
+
 # lousyscript
 
 Software Engineering for Cloud Computing master's student, breaking and fixing things on AWS.
@@ -5,8 +7,6 @@ Software Engineering for Cloud Computing master's student, breaking and fixing t
 **Focus:** cloud security → DevSecOps
 
 **Stack:** AWS · Docker · Linux · Python · Git
-
-<h1 align="center">No system is safe.</h1>
 
 ### Projects
 - mini-CSPM: Python + boto3 misconfiguration scanner *(in progress)*
