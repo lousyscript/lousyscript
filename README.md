@@ -1,4 +1,4 @@
-<h1 align="center">No system is safe.</h1>
+<h1>No system is safe</h1>
 
 # lousyscript
 
